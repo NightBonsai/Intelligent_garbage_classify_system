@@ -1,6 +1,8 @@
 # Intelligent_garbage_classify_system
 四阶段实战项目-智能垃圾分类系统：项目代码**只提供思路**，**仅供参考**
 
+- [源码使用手册](https://github.com/NightBonsai/Intelligent_garbage_classify_system/tree/main/src)
+
 ## 开发工具
 - Windows10/Ubuntu16.04
 - PyCharm2019.2.3 IDE
