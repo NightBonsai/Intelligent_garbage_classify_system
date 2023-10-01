@@ -24,3 +24,5 @@
 ## 设置config.ini
 - 修改 **./resources/config.ini** 配置文件下的**host**，改为要连接虚拟机Ubuntu16.04的IP地址
 - ![image](https://github.com/NightBonsai/Intelligent_garbage_classify_system/assets/107353989/89af9018-cbf4-43e0-ae6c-fa27c407808d)
+
+## 使用PyCharm2019.2.3打开源码文件，运行 **main.py**脚本即可运行应用
